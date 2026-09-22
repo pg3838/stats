@@ -1,4 +1,4 @@
-[README (6).md](https://github.com/user-attachments/files/32497991/README.6.md)
+
 # Diabetes Prediction Using Supervised Classification
 
 ## Aim
