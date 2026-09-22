@@ -1,4 +1,4 @@
-[Uploading README (5).md…]()
+
 # Experiment 6: Regression Models Using Statistical Performance Measures
 
 ## Course Information
