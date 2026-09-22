@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/32497558/README.1.md)
+
 # exp2 — Descriptive Statistics & Visual Analysis
 
 Description
